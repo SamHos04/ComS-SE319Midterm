@@ -1,10 +1,27 @@
 {
     "artists": [
+        {
+            "name": "Leonardo da Vinci",
+            "mostFamousPeice": "Mona Lisa",
+            "countryOfOrigin": "Italy",
+            "otherWork": "Last Supper, The Virgin of the Rocks, Salvator Mundi",
+            "imageOfPerson" : "Leonardo-da-Vinci.jpg"
+        },
+        {
+            "name": "Michelangelo",
+            "mostFamousPeice" : "David",
+            "countryOfOrigin" : "Italy",
+            "otherWork" : "The Creation of Adam, The Last Judgment, Pietá",
+            "imageOfPerson" : "Michelangelo.jpg"
+        },
+        {
+            
+        }
 
 
 
 
 
-        
+
     ]
 }
