@@ -2,21 +2,21 @@
     "artists": [
         {
             "name": "Leonardo da Vinci",
-            "mostFamousPeice": "Mona Lisa",
+            "mostFamousPiece": "Mona Lisa",
             "countryOfOrigin": "Italy",
             "otherWork": "Last Supper, Virgin of the Rocks, Salvator Mundi",
             "imageOfPerson" : "./ArtistsPictures/Leonardo-da-Vinci.jpg"
         },
         {
             "name": "Michelangelo",
-            "mostFamousPeice" : "David",
+            "mostFamousPiece" : "David",
             "countryOfOrigin" : "Italy",
             "otherWork" : "The Creation of Adam, The Last Judgment, Pietá",
             "imageOfPerson" : "./ArtistsPictures/Michelangelo.jpg"
         },
         {
             "name": "Pablo Picasso",
-            "mostFamousPeice" : "The Old Guitarist",
+            "mostFamousPiece" : "The Old Guitarist",
             "countryOfOrigin" : "Spain",
             "otherWork" : "Ma Jolie, La Vie, Guernica",
             "imageOfPerson" : "./ArtistsPictures/Pablo-Picasso.jpg"
