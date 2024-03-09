@@ -52,6 +52,22 @@
             "name":"Pietá",
             "artist":"Michelangelo",
             "imageOfArt":"./Artwork/Pietá.jpg"
+        },
+        {
+            "name":"The Old Guitarist",
+            "artist":"Pablo Picasso",
+            "imageOfArt":"./Artwork/The_Old_Guitarist.jpg"
+        },
+        {
+            "name":"Ma Jolie",
+            "artist":"Pablo Picasso",
+            "imageOfArt":"./Artwork/Ma_Jolie.jpg"
+        },
+        {
+            "name":"La Vie",
+            "artist":"Pablo Picasso",
+            "imageOfArt": "./Artwork/La_Vie.jpg"
         }
+
     ]
 }
