@@ -5,14 +5,21 @@
             "mostFamousPeice": "Mona Lisa",
             "countryOfOrigin": "Italy",
             "otherWork": "Last Supper, Virgin of the Rocks, Salvator Mundi",
-            "imageOfPerson" : "Leonardo-da-Vinci.jpg"
+            "imageOfPerson" : "./ArtistsPictures/Leonardo-da-Vinci.jpg"
         },
         {
             "name": "Michelangelo",
             "mostFamousPeice" : "David",
             "countryOfOrigin" : "Italy",
             "otherWork" : "The Creation of Adam, The Last Judgment, Pietá",
-            "imageOfPerson" : "Michelangelo.jpg"
+            "imageOfPerson" : "./ArtistsPictures/Michelangelo.jpg"
+        },
+        {
+            "name": "Pablo Picasso",
+            "mostFamousPeice" : "The Old Guitarist",
+            "countryOfOrigin" : "Spain",
+            "otherWork" : "Ma Jolie, La Vie, Guernica",
+            "imageOfPerson" : "./ArtistsPictures/Pablo-Picasso.jpg"
         }
     ],
     "artwork": [
