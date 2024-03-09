@@ -4,7 +4,7 @@
             "name": "Leonardo da Vinci",
             "mostFamousPeice": "Mona Lisa",
             "countryOfOrigin": "Italy",
-            "otherWork": "Last Supper, The Virgin of the Rocks, Salvator Mundi",
+            "otherWork": "Last Supper, Virgin of the Rocks, Salvator Mundi",
             "imageOfPerson" : "Leonardo-da-Vinci.jpg"
         },
         {
@@ -13,15 +13,38 @@
             "countryOfOrigin" : "Italy",
             "otherWork" : "The Creation of Adam, The Last Judgment, Pietá",
             "imageOfPerson" : "Michelangelo.jpg"
+        }
+    ],
+    "artwork": [
+        {
+            "name": "Mona Lisa",
+            "artist": "Leonardo de Vinci",
+            "imageOfArt": "./Artwork/Mona_Lisa.jpg"
         },
         {
-            
+            "name":"Last Supper",
+            "artist":"Leonardo de Vinci",
+            "imageOfArt":"./Artwork/Last_Supper.png"
+        },
+        {
+            "name":"Virgin of the Rocks",
+            "artist":"Leonardo de Vinci",
+            "imageOfArt":"./Artwork/Virgin_of_the_Rocks.jpg"
+        },
+        {
+            "name":"David",
+            "artist":"Michelangelo",
+            "imageOfArt":"./Artwork/David.jpg"
+        },
+        {
+            "name":"The Last Judgement",
+            "artist":"Michelangelo",
+            "imageOfArt":"./Artwork/Last_Judgement.jpg"
+        },
+        {
+            "name":"Pietá",
+            "artist":"Michelangelo",
+            "imageOfArt":"./Artwork/Pietá.jpg"
         }
-
-
-
-
-
-
     ]
 }
